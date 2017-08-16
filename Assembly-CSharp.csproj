@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\Controllers\CameraController.cs" />
      <Compile Include="Assets\Scripts\Controllers\Car2dController.cs" />
      <Compile Include="Assets\Scripts\Controllers\WorldController.cs" />
  <Reference Include="UnityEngine.UI">
